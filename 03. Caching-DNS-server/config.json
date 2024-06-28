@@ -1,0 +1,6 @@
+{
+  "server_ip": "127.0.0.1",
+  "server_port": 53,
+  "next_level_server": "8.8.8.8",
+  "next_level_server_port": 53
+}
